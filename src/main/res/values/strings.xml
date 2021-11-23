@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">meme</string>
+    <string name="button">Click</string>
+    <string name="string_button">click</string>
+    <string name="bottom_text">Bottom</string>
+    <string name="top_text">Top</string>
+</resources>
